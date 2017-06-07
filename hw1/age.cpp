@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-int      age;
+float    age;
 ofstream myFile("age.txt");
 
 cout << "What is your age?" << endl;
